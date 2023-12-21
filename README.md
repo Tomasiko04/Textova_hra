@@ -16,4 +16,4 @@ Vždy napište z vaše rozhodnutí a potvrďte kavesou ENTER. Pokud uděláte ne
 
 -> O hře:
 
-Jedná se o můj první větší projekt, kde jsem měl za úkol vytvořit textovou hru. Hlavní příkazy, které jsem využíval byli podminky if elif else dále pak input, print a s knihovnami random a také math. Díky tomuto progrmu jsem se naučil využívat príkaz (try, except ValueError), který jsme potřeboval pro ověření vstupů. Konkrátně jestli uživatel doopravdy zadal int(celé číslo) (pokud nezadal sprvný formát popřípadě nezadal nic upozorní ho to na chybu zadání).
+Jedná se o můj první větší projekt, kde jsem měl za úkol vytvořit textovou hru. Hlavní příkazy, které jsem využíval byli podminky if elif else dále pak input, print a s knihovnami random a také math. Díky tomuto progrmu jsem se naučil využívat príkaz (try, except ValueError), který jsme potřeboval pro ověření vstupů. Konkrátně jestli uživatel doopravdy zadal int(celé číslo) (pokud nezadal sprvný formát popřípadě nezadal nic upozorní ho to na chybu zadání).A
